@@ -1,0 +1,11 @@
+.CakeControls {
+  border: 3px solid #D9FF93;
+  background-color: #F4FF93;
+
+  padding: 1rem 2rem;
+  margin: 0 .5rem;
+
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}

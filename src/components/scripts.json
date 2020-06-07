@@ -1,0 +1,8 @@
+{
+    "redvalvet": { "quantity":1, "price":35, "label":"Red Velvet" },
+    "bostoncream": { "quantity":1, "price":40, "label":"Boston Cream"},
+    "mocha": { "quantity":1, "price":30, "label":"Mocha"  },
+    "keylime": { "quantity":1, "price":50, "label":"Key Lime" },
+    "checolatewhite": { "quantity":1,"price":50, "label":"Checolate White" },
+    "lemondrop": { "quantity":1, "price":20, "label":"Lemon Drop" }
+}

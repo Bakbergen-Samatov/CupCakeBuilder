@@ -1,0 +1,14 @@
+.Logo {
+  display: flex;
+  align-items: center;
+}
+.Logo img {
+  margin: 10px;
+  height: 50px;
+  width: 50px;
+}
+.Logo span {
+  font-family: 'Nanum Brush Script', cursive;
+  color: #A38589;;
+  font-size: 2.5rem;
+}

@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-size: 4rem;
+}
+h2 {
+  font-size: 3.5rem;
+}
+h3 {
+  font-size: 3rem;
+}
+h1, h2, h3 {
+  color: #A38589;
+  font-family: "Nanum Brush Script", cursive;
+  width: 100%;
+  text-align: center;
+  margin-top: 0;
+}

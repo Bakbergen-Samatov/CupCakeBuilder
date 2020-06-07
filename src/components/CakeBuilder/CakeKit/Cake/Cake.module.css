@@ -1,0 +1,43 @@
+.Cake {
+  width: 40px;
+  height: 50px;
+  box-sizing: border-box;
+  margin-top: -20px;
+
+  background-repeat: no-repeat;
+}
+.bostoncream {
+  background-image: url(../../../../assets/baha.png);
+  background-size: cover;
+}
+
+.checolatewhite {
+  background-image: url(../../../../assets/blek.png);
+  background-size: cover;
+}
+.keylime {
+  background-image: url(../../../../assets/live.png);
+  background-size: cover;
+}
+.lemondrop {
+  background-image: url(../../../../assets/www.png);
+  background-size: cover;
+}
+.mocha {
+  background-image: url(../../../../assets/sss.png);
+  background-size: cover;
+}
+.redvalvet {
+  background-image: url(../../../../assets/cake.png);
+  background-size: cover;
+  width: 100;
+  height: 100;
+}
+
+@media (min-width: 900px) {
+  .Cake {
+    width: 50px;
+    height: 62px;
+    margin-top: -24px;
+  }
+}
