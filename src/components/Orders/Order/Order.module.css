@@ -1,5 +1,5 @@
 .Order {
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 5px #a38589;
   border-radius: 1em;
   flex-basis: 380px;
   flex-grow: 1;
@@ -13,12 +13,12 @@
 .Order .price {
   font-weight: bold;
   font-size: 2rem;
-  color: #ec6f31;
+  color: #a38589;
   font-family: "Nanum Brush Script", cursive;
   margin-bottom: 0.5em;
 }
 .Order .ingredient {
-  border: 1px solid #fea77c;
+  border: 1px solid #a38589;
   border-radius: 0.3em;
   padding: 0.3em;
   display: inline-block;
