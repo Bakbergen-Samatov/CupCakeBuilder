@@ -11,10 +11,10 @@
   margin-bottom: 0.3em;
 }
 .Order .price {
-  font-weight: bold;
+  
   font-size: 2rem;
   color: #a38589;
-  font-family: "Nanum Brush Script", cursive;
+  font-family: 'Libre Caslon Text', serif;
   margin-bottom: 0.5em;
 }
 .Order .ingredient {
