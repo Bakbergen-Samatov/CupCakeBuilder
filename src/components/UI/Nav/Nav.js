@@ -9,7 +9,7 @@ export default () => {
   return (
     <ul className={classes.Nav}>
       <NavItem url="/builder">Cake Builder</NavItem>
-      {isAuthenticated ? <NavItem url="/orders">Orders</NavItem> : null}
+      {isAuthenticated ? <NavItem url="/orders">Order</NavItem> : null}
       {!isAuthenticated ? <NavItem url="/auth">Authenticate</NavItem> : null}
       {isAuthenticated ? <NavItem url="/logout">Logout</NavItem> : null}
     </ul>
