@@ -9,6 +9,7 @@
   padding: .4rem 1rem;
 }
 .CakeControl button {
+  font-size: 18px;
   width: 30px;
   height: 30px;
   border: none;
