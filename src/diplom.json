@@ -1,0 +1,35 @@
+{
+  "boston Cream" : {
+    "label" : "BostonCream",
+    "price" : 30,
+    "quantity" : 0
+  },
+  "checolate White" : {
+    "label" : "ChecolateWhite",
+    "price" : 150,
+    "quantity" : 0
+  },
+  
+  "key Lime" : {
+    "label" : "KeyLime",
+    "price" : 25,
+    "quantity" : 0
+  },
+  "lemon Drop" : {
+    "label" : "LemonDrop",
+    "price" : 45,
+    "quantity" : 0
+  },
+  "mocha" : {
+    "label" : "Mocha",
+    "price" : 50,
+    "quantity" : 0
+  },
+  "red Velvet" : {
+    "label" : "RedVelvet",
+    "price" : 10,
+    "quantity" : 0
+  }
+  
+
+}
